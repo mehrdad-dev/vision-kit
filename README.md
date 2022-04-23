@@ -18,7 +18,7 @@ A set of tools (like callbacks, metrics, models and etc) for use in your compute
 
 **Using pypi:**
 
-`pip install vision-kit`
+`pip install kit-vision`
 
 ## 📒 Documentation
 comming soon ...
