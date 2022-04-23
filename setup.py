@@ -19,8 +19,8 @@ except:
 
 def setup_package():
     setup(
-        name='vision-kit',
-        packages=find_packages(include=['vision-kit']),
+        name='kit-vision',
+        packages=find_packages(include=['kit-vision']),
         version='0.0.2',
         classifiers=[
             "Intended Audience :: Science/Research",
