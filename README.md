@@ -1,5 +1,5 @@
 <p align="center">
-  <img  width="300" height="300" src="https://github.com/mehrdad-dev/vision-kit/blob/main/assets/vision-kit.png" alt="vision kit, mehrdad mohammadian,vkit" />
+  <img  width="400" height="89" src="https://github.com/mehrdad-dev/vision-kit/blob/main/assets/vision-kit.png" alt="vision kit, mehrdad mohammadian,vkit" />
 </p>
 
 <h3 align="center" dir=rtl>
