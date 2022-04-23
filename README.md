@@ -14,6 +14,12 @@ Useful tools for your computer vision project with TensorFlow
 ## What is the Vision Kit (vkit)?
 A set of tools (like callbacks, metrics, models and etc) for use in your computer vision projects specifically created by the TensorFlow library.
 
+## 📥 How to install
+
+**Using pip:**
+
+`pip install vision-kit`
+
 
 ## 📒 Documentation
 comming soon ...
