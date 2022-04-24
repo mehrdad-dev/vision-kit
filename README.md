@@ -34,8 +34,11 @@ comming soon ...
 ## 🤝 Contribution 
 Please create a new isssue in github about your contribution.
 
+## 🐍 Pypi Package
+see [here.](https://pypi.org/project/kit-vision/)
+
 ## ⚠️ Licence
-[See here.](https://github.com/mehrdad-dev/vision-kit/blob/main/LICENSE)
+See [here.](https://github.com/mehrdad-dev/vision-kit/blob/main/LICENSE)
 
 
 
