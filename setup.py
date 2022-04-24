@@ -21,7 +21,7 @@ def setup_package():
     setup(
         name='kit-vision',
 #        packages=find_packages(include=['kit-vision']),
-        version='0.0.5',
+        version='0.0.6',
         classifiers=[
             "Intended Audience :: Science/Research",
             "Intended Audience :: Developers",    
