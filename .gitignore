@@ -1,5 +1,6 @@
 .travis.yml
 1.py
+kit_vision.egg-info
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
