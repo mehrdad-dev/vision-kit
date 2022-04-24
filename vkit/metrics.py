@@ -18,3 +18,4 @@ def dice(y_true, y_pred, smooth=1):
     return (2. * intersection + smooth) / (K.sum(y_true_f) + K.sum(y_pred_f) + smooth)
 
 
+__all__ = ['top_5_accuracy', 'dice']
