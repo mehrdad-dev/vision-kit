@@ -18,7 +18,14 @@ A set of tools (like callbacks, metrics, models and etc) for use in your compute
 
 **Using pypi:**
 
-`pip install kit-vision`
+`pip install -U kit-vision`
+
+## 🔄 How to update
+Follow these steps:
+
+1. `pip uninstall kit-vision`
+
+2. `pip install -U kit-vision`
 
 ## 📒 Documentation
 comming soon ...
