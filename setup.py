@@ -20,7 +20,7 @@ except:
 def setup_package():
     setup(
         name='kit-vision',
-#        packages=find_packages(include=['kit-vision']),
+        packages=["vkit"],
         version='0.0.6',
         classifiers=[
             "Intended Audience :: Science/Research",
@@ -37,7 +37,6 @@ def setup_package():
         python_requires='>=3.5',                # Minimum version requirement of the package    
 #        py_modules=["vkit"],                    # Name of the python package    
 #        package_dir={'':'vkit'},                # Directory of the source code of the package    
-        packages=["vkit"],
         include_package_data=True,        
         description='Vision kit - Usefull tools for your computer vision project with TensorFlow',        
         long_description=long_description,
