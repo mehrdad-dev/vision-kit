@@ -20,8 +20,8 @@ except:
 def setup_package():
     setup(
         name='kit-vision',
-        packages=find_packages(include=['kit-vision']),
-        version='0.0.2',
+#        packages=find_packages(include=['kit-vision']),
+        version='0.0.5',
         classifiers=[
             "Intended Audience :: Science/Research",
             "Intended Audience :: Developers",    
@@ -35,9 +35,11 @@ def setup_package():
             "Operating System :: OS Independent",
         ],    
         python_requires='>=3.5',                # Minimum version requirement of the package    
-        py_modules=["vkit"],                    # Name of the python package    
-        package_dir={'':'vkit'},                # Directory of the source code of the package    
-        description='Vision kit - Usefull tools for your computer vision project with TensorFlow',
+#        py_modules=["vkit"],                    # Name of the python package    
+#        package_dir={'':'vkit'},                # Directory of the source code of the package    
+        packages=["vkit"],
+        include_package_data=True,        
+        description='Vision kit - Usefull tools for your computer vision project with TensorFlow',        
         long_description=long_description,
         long_description_content_type='text/markdown',
         url="https://github.com/mehrdad-dev/vision-kit",        
